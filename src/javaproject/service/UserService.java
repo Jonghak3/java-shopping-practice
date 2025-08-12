@@ -1,0 +1,11 @@
+package javaproject.service;
+import User
+
+public class UserService {
+    //리펙토링: 서비스 레이어 분리
+    public User createUser(String id, String password,
+                    String name, String email) {
+        return User; 
+    }
+    
+}
