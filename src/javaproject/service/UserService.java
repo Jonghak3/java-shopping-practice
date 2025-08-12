@@ -1,5 +1,5 @@
 package javaproject.service;
-import User
+import javaproject.domain.User;
 
 public class UserService {
     //리펙토링: 서비스 레이어 분리
